@@ -11,7 +11,6 @@ body{
     color: var(--cor-texto);
     font-family: var(--fonte);
     height: 100vh;
-    font-size: 20px;
     margin: 0;
 }
 .cabeçalho{
