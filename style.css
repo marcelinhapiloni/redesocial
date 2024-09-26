@@ -3,13 +3,13 @@
 :root{
 --cor-texto:#e6a6e8;
 --cor-principal:#ecbcee;
---cor-secundaria:#f3d3f4;
+--cor-secundaria:#fb8aff;
 --cor-fundo:#f9e9f9;
 --fonte:"Merienda", cursive;
 }
 body{
     background-color:var(--cor-principal) ;
-    color: var(--cor-texto);
+    color: var(--cor-secundaria);
     font-family: var(--fonte);
     height: 100vh;
     margin: 0;
