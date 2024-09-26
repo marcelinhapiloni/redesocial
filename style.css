@@ -19,6 +19,6 @@ body{
     text-align: center;
 }
 .cabeçalho__titulo{
-    font-size: 2ren;
+    font-size: 2rem;
     color: var(--cor-texto);
 }
