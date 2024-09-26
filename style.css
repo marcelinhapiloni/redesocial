@@ -21,4 +21,5 @@ body{
 .cabeçalho__titulo{
     font-size: 2rem;
     color: var(--cor-texto);
+    font-weight: 700;
 }
