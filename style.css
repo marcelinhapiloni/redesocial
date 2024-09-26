@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
 
 :root{
---cor-texto:#e6a6e8;
+--cor-secundaria:#e6a6e8;
 --cor-principal:#ecbcee;
---cor-secundaria:#fb8aff;
+--cor-texto:#fb8aff;
 --cor-fundo:#f9e9f9;
 --fonte:"Merienda", cursive;
 }
 body{
     background-color:var(--cor-principal) ;
-    color: var(--cor-secundaria);
+    color: var(--cor-texto);
     font-family: var(--fonte);
     height: 100vh;
     margin: 0;
@@ -20,4 +20,5 @@ body{
 }
 .cabeçalho__titulo{
     font-size: 2ren;
+    color: var(--cor-texto);
 }
