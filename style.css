@@ -46,7 +46,7 @@ nav a:hover{
     font-size: 13rem;
     text-align: center;
     padding: 2rem;
-    border: var(--cor-fundo) solid 2px;
+    border: var(--cor-texto) solid 2px;
 }
 span{
     font-weight: bold;
